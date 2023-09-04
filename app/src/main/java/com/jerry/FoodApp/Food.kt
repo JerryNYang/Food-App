@@ -1,4 +1,4 @@
-package com.jerry.startup
+package com.jerry.FoodApp
 
 class  Food {
     var name:String? =null

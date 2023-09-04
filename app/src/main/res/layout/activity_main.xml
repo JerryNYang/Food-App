@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="horizontal"
     android:background="@color/gray"
-    tools:context="com.jerry.startup.MainActivity">
+    tools:context="com.jerry.FoodApp.MainActivity">
 
     <GridView
         android:horizontalSpacing="5pt"

@@ -1,4 +1,4 @@
-package com.jerry.startup
+package com.jerry.FoodApp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.jerry.startup;
+package com.jerry.FoodApp;
 
 import org.junit.Test;
 
